@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @MHasanBerk
-- 👀 I’m interested in game, web and app development. Yes I know these three together pretty ambitious, but what can I say? I'm still learning 🗿
-- 🌱 I’m currently learning C#.
+- 👀 I’m interested in game, web and app development. 🗿
+- 🌱 I’m currently learning HTML,CSS and JS.
 - 💞️ I’m looking to collaborate on clean readable codes.
 - 📫 How to reach me ... 🗿
 
